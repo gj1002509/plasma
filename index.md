@@ -2,6 +2,8 @@
 
 人生は、生きてるだけで丸儲け、争わない、楽しみ、チャレンジするそれで、人の役に立てれば最高!
 
+![Visitors](https://shields.io/badge/dynamic/json?color=informational&label=visitors&query=value&url=https://api.countapi.xyz/hit/gj1002509/plasma)
+
 
 ## 中野信子氏「生きてるだけで丸儲け」は生物学的にも正しい
 
